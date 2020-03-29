@@ -74,12 +74,22 @@ button {
   outline: none !important;
 }
 
-input, textarea {
+input {
   border: 0;
   max-width: 500px;
   outline: none;
   background: transparent;
   color: #C0C0C0;
+  font-weight: 400;
+  resize: none;
+}
+
+textarea {
+  border: 0;
+  max-width: 500px;
+  outline: none;
+  background: transparent;
+  color: #000000;
   font-weight: 400;
   resize: none;
 }
