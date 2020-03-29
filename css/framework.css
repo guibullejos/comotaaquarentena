@@ -436,13 +436,13 @@
   color: rgba(255, 255, 255, 0.4);
 }
 .input.placeholder-main::-moz-placeholder {
-  color: #949BA0;
+  color: #C0C0C0;
 }
 .input.placeholder-main::-webkit-input-placeholder {
-  color: #949BA0;
+  color: #C0C0C0;
 }
 .input.placeholder-main:-ms-input-placeholder {
-  color: #949BA0;
+  color: #C0C0C0;
 }
 .input.placeholder-heading::-moz-placeholder {
   color: #1E3060;
