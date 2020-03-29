@@ -1,9 +1,13 @@
 @charset "UTF-8";
 /* Change bootstrap's .container default width */
+@media (min-width: 768px) {
+  .container
+}
+@media (min-width: 992px) {
+  .container
+}
 @media (min-width: 1200px) {
-  .container {
-    max-width: 1170px;
-  }
+  .container
 }
 /* Font styles */
 .underline {
