@@ -578,23 +578,14 @@ b, strong {
 
 .form_2 {
   overflow: hidden;
+  width: 100%
+  padding: 80px 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 0px;
+  margin-left: 0px;
 }
-.form_2 .bg {
-  top: 0;
-  left: 15px;
-}
-@media (max-width: 1199.98px) {
-  .form_2 form {
-    padding: 80px 0;
-  }
-  .form_2 .buttons {
-    margin-top: 10px;
-  }
-  .form_2 button {
-    margin-right: 0px;
-    width: 100%;
-  }
-}
+
 @media (max-width: 575.98px) {
   .form_2 form {
     margin: 0 auto;
