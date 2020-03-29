@@ -37,7 +37,7 @@
 }
 
 .medium {
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .semibold {
@@ -12419,7 +12419,7 @@ input[type=radio] + label:before {
   z-index: 0;
 }
 
-/* 
+/*
 picture[class^="color-filter-"], picture[class*=" color-filter-"]{
 	display:inline-block;
 	overflow:hidden;
