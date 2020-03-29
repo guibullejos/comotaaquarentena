@@ -562,19 +562,7 @@ b, strong {
 }
 
 /* 8. Forms */
-@media (max-width: 467.98px) {
-  .form_1 h2 {
-    margin-bottom: 20px;
-  }
-  .form_1 form {
-    padding: 30px;
-  }
-}
-@media (max-width: 359.98px) {
-  .form_1 form {
-    padding: 30px 20px;
-  }
-}
+
 
 .form_2 {
   overflow: hidden;
