@@ -581,7 +581,7 @@ b, strong {
 }
 .form_2 .bg {
   top: 0;
-  left: 200px;
+  left: 15px;
 }
 @media (max-width: 1199.98px) {
   .form_2 form {
@@ -597,7 +597,6 @@ b, strong {
 }
 @media (max-width: 575.98px) {
   .form_2 form {
-    max-width: 290px;
     margin: 0 auto;
   }
 }
