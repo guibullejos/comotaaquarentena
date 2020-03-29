@@ -63,6 +63,7 @@ a, button {
 }
 a:hover, button:hover {
   color: #999999;
+  text-decoration: underline;
 }
 a:active, a:focus, button:active, button:focus {
   text-decoration: none;
