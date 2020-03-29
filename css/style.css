@@ -98,9 +98,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2 {
-  font-size: 58px;
+  font-size: 72px;
   font-weight: 700;
-  line-height: 70px;
+  line-height: 86px;
 }
 h1.big, h2.big {
   font-size: 72px;
@@ -327,8 +327,8 @@ b, strong {
   }
 
   h1, h2 {
-    font-size: 52px;
-    line-height: 62px;
+    font-size: 72px;
+    line-height: 82px;
   }
   h1.big, h2.big {
     font-size: 62px;
