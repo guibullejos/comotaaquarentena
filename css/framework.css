@@ -12313,10 +12313,10 @@ input[type=radio] + label:before {
 }
 
 .color-main {
-  color: #949BA0;
+  color: #000000;
 }
 .color-main.link:hover {
-  color: #cacdd0;
+  color: #999999;;
 }
 
 .color-heading {
