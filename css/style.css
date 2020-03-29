@@ -586,12 +586,6 @@ b, strong {
   margin-left: 0px;
 }
 
-@media (max-width: 575.98px) {
-  .form_2 form {
-    margin: 0 auto;
-  }
-}
-
 /* 9. Call to Actions */
 @media (max-width: 767.98px) {
   .call_to_action_1 .description {
