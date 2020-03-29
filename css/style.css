@@ -92,6 +92,7 @@ textarea {
   color: #000000;
   font-weight: 400;
   resize: none;
+  text-align: center;
 }
 
 label {
