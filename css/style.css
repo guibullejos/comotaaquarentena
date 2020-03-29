@@ -62,7 +62,7 @@ a, button {
   transition: all 0.25s;
 }
 a:hover, button:hover {
-  text-decoration: none;
+  color: #454545;
 }
 a:active, a:focus, button:active, button:focus {
   text-decoration: none;
@@ -72,7 +72,6 @@ a:active, a:focus, button:active, button:focus {
 button {
   border: none;
   outline: none !important;
-  onmouseover: #454545;
 }
 
 input, textarea {
@@ -585,7 +584,7 @@ b, strong {
 }
 @media (max-width: 1199.98px) {
   .form_2 form {
-    padding: 80px 0;
+    padding: 160px 0;
   }
   .form_2 .buttons {
     margin-top: 10px;
