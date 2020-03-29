@@ -675,10 +675,10 @@ input[type=radio] + label:before {
 
 /* Other elements */
 .logo {
-  font-family: Cormorant Garamond;
-  font-size: 24px;
+  font-family: Courier Prime;
+  font-size: 18px;
   color: #949BA0;
-  font-weight: 700;
+  font-weight: 400;
 }
 .logo.color-white {
   color: #FFFFFF;
