@@ -12320,7 +12320,7 @@ input[type=radio] + label:before {
 }
 
 .color-heading {
-  color: #1E3060;
+  color: #999999;
 }
 .color-heading.link:hover {
   color: #060912;
