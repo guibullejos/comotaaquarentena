@@ -76,6 +76,7 @@ button {
 
 input, textarea {
   border: 0;
+  max-width: 500px;
   outline: none;
   background: transparent;
   color: #C0C0C0;
