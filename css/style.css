@@ -592,9 +592,9 @@ b, strong {
     width: 100%;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 575.98px) {
   .form_2 form {
-    max-width: 750px;
+    max-width: 290px;
     margin: 0 auto;
   }
 }
