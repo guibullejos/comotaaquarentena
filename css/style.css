@@ -108,12 +108,12 @@ h1.big, h2.big {
 }
 h1.small, h2.small {
   font-size: 42px;
-  line-height: 52px;
+  line-height: 48px;
   font-weight: 400;
 }
 
 h3 {
-  font-size: 42px;
+  font-size: 36px;
   line-height: 52px;
   font-weight: 400;
 }
