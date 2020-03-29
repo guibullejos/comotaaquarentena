@@ -526,6 +526,7 @@ select.color-white option {
 textarea.input {
   padding-top: 15px;
   padding-bottom: 15px;
+  width:500px
 }
 
 /* Checkboxes */
