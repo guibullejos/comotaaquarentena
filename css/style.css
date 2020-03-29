@@ -62,7 +62,7 @@ a, button {
   transition: all 0.25s;
 }
 a:hover, button:hover {
-  color: #454545;
+  color: #999999;
 }
 a:active, a:focus, button:active, button:focus {
   text-decoration: none;
@@ -94,12 +94,12 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-margin-before: 0;
   -webkit-margin-after: 0;
   margin: 0;
-  font-weight: 700;
   font-family: Courier Prime;
 }
 
 h1, h2 {
   font-size: 58px;
+  font-weight: 700;
   line-height: 70px;
 }
 h1.big, h2.big {
@@ -115,6 +115,7 @@ h1.small, h2.small {
 h3 {
   font-size: 42px;
   line-height: 52px;
+  font-weight: 400;
 }
 
 b, strong {
@@ -584,7 +585,7 @@ b, strong {
 }
 @media (max-width: 1199.98px) {
   .form_2 form {
-    padding: 160px 0;
+    padding: 80px 0;
   }
   .form_2 .buttons {
     margin-top: 10px;
