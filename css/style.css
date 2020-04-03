@@ -582,12 +582,12 @@ b, strong {
 
 .form_2 {
   overflow: hidden;
-  width: 100%
-  padding: 80px 0;
+  width:auto;
+  padding: 80px;
   margin-top: 10px;
   margin-bottom: 10px;
-  margin-right: 0px;
-  margin-left: 0px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
 /* 9. Call to Actions */
